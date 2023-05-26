@@ -41,10 +41,12 @@
     >.
   </p>
 
-  <small
-    >You can download my CV <a href="/" target="_blank" rel="noreferrer">here</a
-    ></small
-  >
+  <small>
+    You can download my CV <a
+      href="https://drive.google.com/uc?id=1v6RUTFhibwUwJxJnjkOsthBuALAnvlB2&export=download"
+      download>here</a
+    >
+  </small>
 
   <div>
     <!-- Link section -->
