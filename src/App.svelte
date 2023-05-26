@@ -24,7 +24,7 @@
   </p>
   <p>
     JavaScript, Svelte, Go, Fiber, Pocketbase, React, Node.js, Express, MySQL,
-    Next.js, HTML, CSS, Tailwind, Bootstrap, Figma
+    Next.js, HTML, CSS, Tailwind, Bootstrap, Figma, Postman, Git, Ubuntu
   </p>
   <p>
     📫 You can contact me via <a
