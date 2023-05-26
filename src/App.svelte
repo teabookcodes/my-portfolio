@@ -12,14 +12,22 @@
     Republic.
   </p>
   <p>
-    I’m interested in or have basic experience with the following technologies:
+    👨‍💻 I developed the web application <a
+      href="https://nftaula.io"
+      target="_blank"
+      rel="noreferrer">nftaula.io</a
+    >, which I am still working on
+  </p>
+  <p>
+    🎓 I’m interested in or have some experience with the following
+    technologies:
   </p>
   <p>
     JavaScript, Svelte, Go, Fiber, Pocketbase, React, Node.js, Express, MySQL,
     Next.js, HTML, CSS, Tailwind, Bootstrap, Figma
   </p>
   <p>
-    You can contact me via <a
+    📫 You can contact me via <a
       href="mailto:simon.kana@seznam.cz"
       rel="noreferrer">email</a
     >
@@ -32,6 +40,11 @@
       >GitHub</a
     >.
   </p>
+
+  <small
+    >You can download my CV <a href="/" target="_blank" rel="noreferrer">here</a
+    ></small
+  >
 
   <div>
     <!-- Link section -->
