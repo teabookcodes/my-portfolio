@@ -60,7 +60,7 @@
     width: 96%;
   }
   .avatar {
-    height: 10em;
+    height: 8em;
     border-radius: 50%;
   }
   p {
@@ -77,6 +77,11 @@
       padding: 64px 0;
       width: 72%;
     }
+    .avatar {
+      height: 10em;
+    }
+
+
     p {
       font-size: 1.75rem;
       line-height: 2.25rem;
