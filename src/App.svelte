@@ -49,8 +49,8 @@
     border-radius: 50%;
   }
   p {
-    font-size: 1.75rem;
-    line-height: 2.25rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
   }
   a {
     color: #000;
@@ -61,6 +61,10 @@
     main {
       padding: 64px 0;
       width: 72%;
+    }
+    p {
+      font-size: 1.75rem;
+      line-height: 2.25rem;
     }
     a:hover {
       background-color: #7f86fd;
