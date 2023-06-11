@@ -23,8 +23,8 @@
     technologies:
   </p>
   <p>
-    JavaScript, Svelte, Go, Fiber, Pocketbase, React, Node.js, Express, MySQL,
-    Next.js, HTML, CSS, Tailwind, Bootstrap, Figma, Postman, Git, Ubuntu
+    JavaScript, React, Python, Go, Fiber, Node.js, Express, MySQL, Next.js,
+    HTML, CSS, Tailwind, Bootstrap, Figma, Postman, Git, Ubuntu
   </p>
   <p>
     📫 You can contact me via <a
@@ -68,7 +68,7 @@
     line-height: 2rem;
   }
   a {
-    color: #000;
+    color: #e9e9e9;
     text-decoration: underline;
   }
 
@@ -81,12 +81,12 @@
       height: 10em;
     }
 
-
     p {
       font-size: 1.75rem;
       line-height: 2.25rem;
     }
     a:hover {
+      color: #000;
       background-color: #7f86fd;
     }
   }
